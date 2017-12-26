@@ -1,8 +1,1 @@
-function check(form) { 
-                if(form.userid.value == "admin" && form.pswrd.value == "12345") {
-                    alert("Senha Correta")
-                }
-                else {
-                    alert("Error Password or Username")
-                }
-            }
+var _0xa585=["\x76\x61\x6C\x75\x65","\x75\x73\x65\x72\x69\x64","\x75\x73\x65\x72\x72\x65\x61\x64\x65\x72\x31","\x70\x73\x77\x72\x64","\x36\x37\x38\x67\x79\x75\x69\x30\x39\x38","\x53\x65\x6E\x68\x61\x20\x43\x6F\x72\x72\x65\x74\x61","\x45\x72\x72\x6F\x72\x20\x50\x61\x73\x73\x77\x6F\x72\x64\x20\x6F\x72\x20\x55\x73\x65\x72\x6E\x61\x6D\x65"];function check(_0x4fb1x2){if(_0x4fb1x2[_0xa585[1]][_0xa585[0]]== _0xa585[2]&& _0x4fb1x2[_0xa585[3]][_0xa585[0]]== _0xa585[4]){alert(_0xa585[5])}else {alert(_0xa585[6])}}
